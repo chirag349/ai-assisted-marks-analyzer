@@ -1,0 +1,10 @@
+streamlit
+pytesseract
+pillow
+opencv-python-headless
+numpy
+pypdf
+pdf2image
+transformers
+torch
+scikit-learn

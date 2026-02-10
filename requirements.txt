@@ -1,5 +1,10 @@
 streamlit
 pillow
+pytesseract
+opencv-python
+numpy
 pypdf
+pdf2image
+transformers
+torch
 scikit-learn
-
